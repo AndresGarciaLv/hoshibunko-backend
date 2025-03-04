@@ -1,0 +1,1189 @@
+2025-02-27 14:12:26.735 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 14:12:27.108 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 14:12:27.189 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 14:12:27.260 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 14:12:27.308 -05:00 [INF] Hosting environment: Development
+2025-02-27 14:12:27.315 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 14:12:29.005 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 14:12:29.256 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 256.6047ms
+2025-02-27 14:12:29.292 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 14:12:29.292 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 14:12:29.307 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 16.2914ms
+2025-02-27 14:12:29.373 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 80.7472ms
+2025-02-27 14:12:29.472 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 14:12:29.509 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 38.2278ms
+2025-02-27 14:28:09.518 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 14:28:09.730 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 14:28:09.735 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 14:28:09.781 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 14:28:09.785 -05:00 [INF] Hosting environment: Development
+2025-02-27 14:28:09.787 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 14:28:10.224 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 14:28:10.488 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 260.7321ms
+2025-02-27 14:28:10.494 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 14:28:10.513 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 14:28:10.523 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 29.8673ms
+2025-02-27 14:28:10.577 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.6962ms
+2025-02-27 14:28:10.684 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 14:28:10.704 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.2978ms
+2025-02-27 14:58:01.828 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 14:58:02.040 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 14:59:44.078 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 14:59:44.453 -05:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 14:59:44.465 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 14:59:44.466 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 14:59:44.509 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-02-27 14:59:44.511 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 14:59:44.512 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 14:59:44.516 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-02-27 14:59:44.524 -05:00 [INF] Applying migration '20250227195802_m1'.
+2025-02-27 14:59:44.563 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2025-02-27 14:59:44.566 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [Nombre] nvarchar(max) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2025-02-27 14:59:44.568 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Autores] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Autores] PRIMARY KEY ([Id])
+);
+2025-02-27 14:59:44.570 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Categorias] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Categorias] PRIMARY KEY ([Id])
+);
+2025-02-27 14:59:44.573 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.575 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.580 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.583 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.585 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.841 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Libros] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    [Descripcion] nvarchar(max) NOT NULL,
+    [AutorId] int NOT NULL,
+    CONSTRAINT [PK_Libros] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Libros_Autores_AutorId] FOREIGN KEY ([AutorId]) REFERENCES [Autores] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.847 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [LibrosCategorias] (
+    [LibroId] int NOT NULL,
+    [CategoriaId] int NOT NULL,
+    [Id] int NOT NULL,
+    CONSTRAINT [PK_LibrosCategorias] PRIMARY KEY ([LibroId], [CategoriaId]),
+    CONSTRAINT [FK_LibrosCategorias_Categorias_CategoriaId] FOREIGN KEY ([CategoriaId]) REFERENCES [Categorias] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_LibrosCategorias_Libros_LibroId] FOREIGN KEY ([LibroId]) REFERENCES [Libros] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 14:59:44.852 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Likes] (
+    [Id] int NOT NULL IDENTITY,
+    [LibroId] int NOT NULL,
+    [UsuarioId] nvarchar(450) NOT NULL,
+    [LibroId1] int NULL,
+    CONSTRAINT [PK_Likes] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Likes_AspNetUsers_UsuarioId] FOREIGN KEY ([UsuarioId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Likes_Libros_LibroId] FOREIGN KEY ([LibroId]) REFERENCES [Libros] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Likes_Libros_LibroId1] FOREIGN KEY ([LibroId1]) REFERENCES [Libros] ([Id])
+);
+2025-02-27 14:59:44.861 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2025-02-27 14:59:44.864 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2025-02-27 14:59:44.866 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2025-02-27 14:59:44.868 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2025-02-27 14:59:44.871 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2025-02-27 14:59:44.872 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2025-02-27 14:59:44.874 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2025-02-27 14:59:44.875 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Libros_AutorId] ON [Libros] ([AutorId]);
+2025-02-27 14:59:44.876 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_LibrosCategorias_CategoriaId] ON [LibrosCategorias] ([CategoriaId]);
+2025-02-27 14:59:44.879 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_LibroId] ON [Likes] ([LibroId]);
+2025-02-27 14:59:44.880 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_LibroId1] ON [Likes] ([LibroId1]);
+2025-02-27 14:59:44.882 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_UsuarioId] ON [Likes] ([UsuarioId]);
+2025-02-27 14:59:44.885 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250227195802_m1', N'8.0.2');
+2025-02-27 15:03:41.210 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 15:03:41.410 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 15:03:41.411 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 15:03:41.475 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 15:03:41.476 -05:00 [INF] Hosting environment: Development
+2025-02-27 15:03:41.477 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 15:03:42.880 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 15:03:43.059 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 185.3856ms
+2025-02-27 15:03:43.077 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 15:03:43.087 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 15:03:43.088 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 11.6681ms
+2025-02-27 15:03:43.178 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.6023ms
+2025-02-27 15:03:43.262 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 15:03:43.281 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 19.6709ms
+2025-02-27 15:04:17.077 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7061/api/Auth/register - application/json 93
+2025-02-27 15:04:17.097 -05:00 [INF] CORS policy execution successful.
+2025-02-27 15:04:17.339 -05:00 [INF] Executing endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:04:17.385 -05:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(hoshibunko.Models.DTOs.Auth.RegisterRequestDto) on controller hoshibunko.Controllers.AuthController (hoshibunko).
+2025-02-27 15:04:17.624 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.List`1[[Microsoft.AspNetCore.Identity.IdentityError, Microsoft.Extensions.Identity.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]'.
+2025-02-27 15:04:17.638 -05:00 [INF] Executed action hoshibunko.Controllers.AuthController.Register (hoshibunko) in 241.5032ms
+2025-02-27 15:04:17.642 -05:00 [INF] Executed endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:04:17.646 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7061/api/Auth/register - 400 null application/json; charset=utf-8 569.5458ms
+2025-02-27 15:04:29.688 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7061/api/Auth/register - application/json 94
+2025-02-27 15:04:29.693 -05:00 [INF] CORS policy execution successful.
+2025-02-27 15:04:29.699 -05:00 [INF] Executing endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:04:29.710 -05:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(hoshibunko.Models.DTOs.Auth.RegisterRequestDto) on controller hoshibunko.Controllers.AuthController (hoshibunko).
+2025-02-27 15:04:30.440 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:04:31.329 -05:00 [INF] Executed DbCommand (87ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:04:31.556 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:04:31.585 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:04:31.602 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:04:31.690 -05:00 [INF] Executed action hoshibunko.Controllers.AuthController.Register (hoshibunko) in 1975.0137ms
+2025-02-27 15:04:31.693 -05:00 [INF] Executed endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:04:31.698 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Role USER does not exist.
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.AddToRoleAsync(TUser user, String normalizedRoleName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.AddToRoleAsync(TUser user, String role)
+   at hoshibunko.Controllers.AuthController.Register(RegisterRequestDto request) in C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko\Controllers\AuthController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-27 15:04:31.739 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7061/api/Auth/register - 500 null text/plain; charset=utf-8 2050.8928ms
+2025-02-27 15:14:11.687 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:14:12.206 -05:00 [INF] Executed DbCommand (38ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.234 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.238 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.320 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:14:12.346 -05:00 [INF] Executed DbCommand (16ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.350 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.354 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:14:12.361 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:14:12.389 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 15:14:12.572 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 15:14:12.573 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 15:14:12.644 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 15:14:12.646 -05:00 [INF] Hosting environment: Development
+2025-02-27 15:14:12.647 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 15:14:13.164 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 15:14:13.330 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 174.8764ms
+2025-02-27 15:14:13.356 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 15:14:13.366 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 11.6927ms
+2025-02-27 15:14:13.383 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 15:14:13.435 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.113ms
+2025-02-27 15:14:13.583 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 15:14:13.598 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 15.6421ms
+2025-02-27 15:15:22.041 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:15:22.579 -05:00 [INF] Executed DbCommand (34ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.606 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.611 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.692 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:15:22.702 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.705 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.709 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:15:22.714 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:15:22.738 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 15:15:22.891 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 15:15:22.893 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 15:15:22.951 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 15:15:22.956 -05:00 [INF] Hosting environment: Development
+2025-02-27 15:15:22.958 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 15:15:23.477 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 15:15:23.653 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 185.316ms
+2025-02-27 15:15:23.675 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 15:15:23.682 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 15:15:23.686 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 10.3429ms
+2025-02-27 15:15:23.735 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.6079ms
+2025-02-27 15:15:23.813 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 15:15:23.829 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.819ms
+2025-02-27 15:34:22.917 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:34:23.040 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:34:28.443 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:34:28.672 -05:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 15:34:28.685 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 15:34:28.686 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 15:34:28.723 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-02-27 15:34:28.726 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 15:34:28.727 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 15:34:28.735 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-02-27 15:34:28.749 -05:00 [INF] Applying migration '20250227203423_m1'.
+2025-02-27 15:34:28.783 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2025-02-27 15:34:28.786 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [Nombre] nvarchar(max) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2025-02-27 15:34:28.789 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Autores] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Autores] PRIMARY KEY ([Id])
+);
+2025-02-27 15:34:28.790 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Categorias] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Categorias] PRIMARY KEY ([Id])
+);
+2025-02-27 15:34:28.794 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.796 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.798 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.801 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.802 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.806 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Libros] (
+    [Id] int NOT NULL IDENTITY,
+    [Nombre] nvarchar(max) NOT NULL,
+    [Descripcion] nvarchar(max) NOT NULL,
+    [AutorId] int NOT NULL,
+    CONSTRAINT [PK_Libros] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Libros_Autores_AutorId] FOREIGN KEY ([AutorId]) REFERENCES [Autores] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.811 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [LibrosCategorias] (
+    [LibroId] int NOT NULL,
+    [CategoriaId] int NOT NULL,
+    [Id] int NOT NULL,
+    CONSTRAINT [PK_LibrosCategorias] PRIMARY KEY ([LibroId], [CategoriaId]),
+    CONSTRAINT [FK_LibrosCategorias_Categorias_CategoriaId] FOREIGN KEY ([CategoriaId]) REFERENCES [Categorias] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_LibrosCategorias_Libros_LibroId] FOREIGN KEY ([LibroId]) REFERENCES [Libros] ([Id]) ON DELETE CASCADE
+);
+2025-02-27 15:34:28.813 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Likes] (
+    [Id] int NOT NULL IDENTITY,
+    [LibroId] int NOT NULL,
+    [UsuarioId] nvarchar(450) NOT NULL,
+    [LibroId1] int NULL,
+    CONSTRAINT [PK_Likes] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Likes_AspNetUsers_UsuarioId] FOREIGN KEY ([UsuarioId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Likes_Libros_LibroId] FOREIGN KEY ([LibroId]) REFERENCES [Libros] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Likes_Libros_LibroId1] FOREIGN KEY ([LibroId1]) REFERENCES [Libros] ([Id])
+);
+2025-02-27 15:34:29.758 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2025-02-27 15:34:29.760 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2025-02-27 15:34:29.761 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2025-02-27 15:34:29.762 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2025-02-27 15:34:29.763 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2025-02-27 15:34:29.764 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2025-02-27 15:34:29.766 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2025-02-27 15:34:29.768 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Libros_AutorId] ON [Libros] ([AutorId]);
+2025-02-27 15:34:29.768 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_LibrosCategorias_CategoriaId] ON [LibrosCategorias] ([CategoriaId]);
+2025-02-27 15:34:29.769 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_LibroId] ON [Likes] ([LibroId]);
+2025-02-27 15:34:29.770 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_LibroId1] ON [Likes] ([LibroId1]);
+2025-02-27 15:34:29.771 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Likes_UsuarioId] ON [Likes] ([UsuarioId]);
+2025-02-27 15:34:29.775 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250227203423_m1', N'8.0.2');
+2025-02-27 15:34:35.989 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 15:34:36.390 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 15:34:36.758 -05:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 15:34:36.847 -05:00 [INF] Executed DbCommand (77ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2025-02-27 15:34:37.032 -05:00 [INF] Executed DbCommand (25ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.054 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.059 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.140 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:34:37.160 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.164 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.166 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 15:34:37.173 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-02-27 15:34:37.191 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.256 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.307 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:34:37.322 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.349 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:34:37.356 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.378 -05:00 [INF] Executed DbCommand (11ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.445 -05:00 [INF] Executed DbCommand (33ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:34:37.522 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.536 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:34:37.540 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.547 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:34:37.551 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.555 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.560 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:34:37.604 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.611 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:34:37.615 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.618 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:34:37.621 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.624 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.628 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:34:37.674 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.679 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:34:37.682 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.686 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:34:37.688 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.690 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.693 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:34:37.735 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.756 -05:00 [INF] Executed DbCommand (17ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:34:37.760 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.766 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:34:37.770 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:34:37.773 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:34:37.777 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:34:37.785 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Autores] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.818 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Autores] USING (
+VALUES (@p0, 0),
+(@p1, 1),
+(@p2, 2),
+(@p3, 3),
+(@p4, 4)) AS i ([Nombre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Nombre])
+VALUES (i.[Nombre])
+OUTPUT INSERTED.[Id], i._Position;
+2025-02-27 15:34:37.836 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Categorias] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.853 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Categorias] USING (
+VALUES (@p0, 0),
+(@p1, 1),
+(@p2, 2),
+(@p3, 3),
+(@p4, 4)) AS i ([Nombre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Nombre])
+VALUES (i.[Nombre])
+OUTPUT INSERTED.[Id], i._Position;
+2025-02-27 15:34:37.866 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Libros] AS [l]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.875 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Nombre]
+FROM [Autores] AS [a]
+2025-02-27 15:34:37.883 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Nombre]
+FROM [Categorias] AS [c]
+2025-02-27 15:34:37.921 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Int32), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (DbType = Int32), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Int32), @p13='?' (Size = 4000), @p14='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Libros] USING (
+VALUES (@p0, @p1, @p2, 0),
+(@p3, @p4, @p5, 1),
+(@p6, @p7, @p8, 2),
+(@p9, @p10, @p11, 3),
+(@p12, @p13, @p14, 4)) AS i ([AutorId], [Descripcion], [Nombre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([AutorId], [Descripcion], [Nombre])
+VALUES (i.[AutorId], i.[Descripcion], i.[Nombre])
+OUTPUT INSERTED.[Id], i._Position;
+2025-02-27 15:34:37.941 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32), @p7='?' (DbType = Int32), @p8='?' (DbType = Int32), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (DbType = Int32), @p12='?' (DbType = Int32), @p13='?' (DbType = Int32), @p14='?' (DbType = Int32), @p15='?' (DbType = Int32), @p16='?' (DbType = Int32), @p17='?' (DbType = Int32), @p18='?' (DbType = Int32), @p19='?' (DbType = Int32), @p20='?' (DbType = Int32), @p21='?' (DbType = Int32), @p22='?' (DbType = Int32), @p23='?' (DbType = Int32), @p24='?' (DbType = Int32), @p25='?' (DbType = Int32), @p26='?' (DbType = Int32), @p27='?' (DbType = Int32), @p28='?' (DbType = Int32), @p29='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [LibrosCategorias] ([CategoriaId], [LibroId], [Id])
+VALUES (@p0, @p1, @p2),
+(@p3, @p4, @p5),
+(@p6, @p7, @p8),
+(@p9, @p10, @p11),
+(@p12, @p13, @p14),
+(@p15, @p16, @p17),
+(@p18, @p19, @p20),
+(@p21, @p22, @p23),
+(@p24, @p25, @p26),
+(@p27, @p28, @p29);
+2025-02-27 15:34:37.949 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.956 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+2025-02-27 15:34:37.963 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[AutorId], [l].[Descripcion], [l].[Nombre]
+FROM [Libros] AS [l]
+2025-02-27 15:34:37.974 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.988 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.991 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.995 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:37.997 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.000 -05:00 [INF] Executed DbCommand (0ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.005 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.010 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.022 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.029 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.033 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.038 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.042 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.046 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.049 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__8__locals1_user_Id_0='?' (Size = 450), @__libro_Id_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]
+        WHERE [l].[UsuarioId] = @__8__locals1_user_Id_0 AND [l].[LibroId] = @__libro_Id_1) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 15:34:38.073 -05:00 [INF] Executed DbCommand (19ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 450), @p3='?' (DbType = Int32), @p4='?' (DbType = Int32), @p5='?' (Size = 450), @p6='?' (DbType = Int32), @p7='?' (DbType = Int32), @p8='?' (Size = 450), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (Size = 450), @p12='?' (DbType = Int32), @p13='?' (DbType = Int32), @p14='?' (Size = 450), @p15='?' (DbType = Int32), @p16='?' (DbType = Int32), @p17='?' (Size = 450), @p18='?' (DbType = Int32), @p19='?' (DbType = Int32), @p20='?' (Size = 450), @p21='?' (DbType = Int32), @p22='?' (DbType = Int32), @p23='?' (Size = 450), @p24='?' (DbType = Int32), @p25='?' (DbType = Int32), @p26='?' (Size = 450), @p27='?' (DbType = Int32), @p28='?' (DbType = Int32), @p29='?' (Size = 450), @p30='?' (DbType = Int32), @p31='?' (DbType = Int32), @p32='?' (Size = 450), @p33='?' (DbType = Int32), @p34='?' (DbType = Int32), @p35='?' (Size = 450), @p36='?' (DbType = Int32), @p37='?' (DbType = Int32), @p38='?' (Size = 450), @p39='?' (DbType = Int32), @p40='?' (DbType = Int32), @p41='?' (Size = 450), @p42='?' (DbType = Int32), @p43='?' (DbType = Int32), @p44='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Likes] USING (
+VALUES (@p0, @p1, @p2, 0),
+(@p3, @p4, @p5, 1),
+(@p6, @p7, @p8, 2),
+(@p9, @p10, @p11, 3),
+(@p12, @p13, @p14, 4),
+(@p15, @p16, @p17, 5),
+(@p18, @p19, @p20, 6),
+(@p21, @p22, @p23, 7),
+(@p24, @p25, @p26, 8),
+(@p27, @p28, @p29, 9),
+(@p30, @p31, @p32, 10),
+(@p33, @p34, @p35, 11),
+(@p36, @p37, @p38, 12),
+(@p39, @p40, @p41, 13),
+(@p42, @p43, @p44, 14)) AS i ([LibroId], [LibroId1], [UsuarioId], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([LibroId], [LibroId1], [UsuarioId])
+VALUES (i.[LibroId], i.[LibroId1], i.[UsuarioId])
+OUTPUT INSERTED.[Id], i._Position;
+2025-02-27 15:34:38.285 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 15:34:38.287 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 15:34:38.344 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 15:34:38.345 -05:00 [INF] Hosting environment: Development
+2025-02-27 15:34:38.346 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 15:34:39.347 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 15:34:39.526 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 190.3024ms
+2025-02-27 15:34:39.538 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 15:34:39.552 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 14.2619ms
+2025-02-27 15:34:39.555 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 15:34:39.598 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.3784ms
+2025-02-27 15:34:39.685 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 15:34:39.702 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.6986ms
+2025-02-27 15:35:57.964 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7061/api/Auth/register - application/json 94
+2025-02-27 15:35:57.988 -05:00 [INF] CORS policy execution successful.
+2025-02-27 15:35:58.070 -05:00 [INF] Executing endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:35:58.096 -05:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(hoshibunko.Models.DTOs.Auth.RegisterRequestDto) on controller hoshibunko.Controllers.AuthController (hoshibunko).
+2025-02-27 15:35:58.254 -05:00 [INF] Executed DbCommand (13ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:35:58.264 -05:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 4000), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [Nombre], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-02-27 15:35:58.273 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:35:58.286 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-02-27 15:35:58.291 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-02-27 15:35:58.296 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:35:58.309 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p17='?' (Size = 450), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 4000), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [Nombre] = @p8, [NormalizedEmail] = @p9, [NormalizedUserName] = @p10, [PasswordHash] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-02-27 15:35:58.354 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-02-27 15:35:58.435 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450), @__p_2='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[LoginProvider], [a].[Name], [a].[Value]
+FROM [AspNetUserTokens] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[LoginProvider] = @__p_1 AND [a].[Name] = @__p_2
+2025-02-27 15:35:58.444 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450), @__p_2='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[LoginProvider], [a].[Name], [a].[Value]
+FROM [AspNetUserTokens] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[LoginProvider] = @__p_1 AND [a].[Name] = @__p_2
+2025-02-27 15:35:58.462 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:35:58.479 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p2='?' (Size = 450), @p3='?' (Size = 4000), @p19='?' (Size = 450), @p4='?' (DbType = Int32), @p5='?' (Size = 4000), @p20='?' (Size = 4000), @p6='?' (Size = 256), @p7='?' (DbType = Boolean), @p8='?' (DbType = Boolean), @p9='?' (DbType = DateTimeOffset), @p10='?' (Size = 4000), @p11='?' (Size = 256), @p12='?' (Size = 256), @p13='?' (Size = 4000), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 4000), @p17='?' (DbType = Boolean), @p18='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserTokens] ([LoginProvider], [Name], [UserId], [Value])
+VALUES (@p0, @p1, @p2, @p3);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p4, [ConcurrencyStamp] = @p5, [Email] = @p6, [EmailConfirmed] = @p7, [LockoutEnabled] = @p8, [LockoutEnd] = @p9, [Nombre] = @p10, [NormalizedEmail] = @p11, [NormalizedUserName] = @p12, [PasswordHash] = @p13, [PhoneNumber] = @p14, [PhoneNumberConfirmed] = @p15, [SecurityStamp] = @p16, [TwoFactorEnabled] = @p17, [UserName] = @p18
+OUTPUT 1
+WHERE [Id] = @p19 AND [ConcurrencyStamp] = @p20;
+2025-02-27 15:35:58.496 -05:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-02-27 15:35:58.510 -05:00 [INF] Executed action hoshibunko.Controllers.AuthController.Register (hoshibunko) in 406.7053ms
+2025-02-27 15:35:58.512 -05:00 [INF] Executed endpoint 'hoshibunko.Controllers.AuthController.Register (hoshibunko)'
+2025-02-27 15:35:58.519 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7061/api/Auth/register - 200 null application/json; charset=utf-8 555.3025ms
+2025-02-27 15:58:42.303 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7061/api/Auth/login - application/json 54
+2025-02-27 15:58:42.311 -05:00 [INF] CORS policy execution successful.
+2025-02-27 15:58:42.314 -05:00 [INF] Executing endpoint 'hoshibunko.Controllers.AuthController.Login (hoshibunko)'
+2025-02-27 15:58:42.322 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(hoshibunko.Models.DTOs.Auth.LoginRequestDto) on controller hoshibunko.Controllers.AuthController (hoshibunko).
+2025-02-27 15:58:42.469 -05:00 [INF] Executed DbCommand (15ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:58:42.609 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-02-27 15:58:42.628 -05:00 [INF] Executed DbCommand (14ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450), @__p_2='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[LoginProvider], [a].[Name], [a].[Value]
+FROM [AspNetUserTokens] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[LoginProvider] = @__p_1 AND [a].[Name] = @__p_2
+2025-02-27 15:58:42.636 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:58:42.651 -05:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p2='?' (Size = 450), @p18='?' (Size = 450), @p3='?' (DbType = Int32), @p4='?' (Size = 4000), @p19='?' (Size = 4000), @p5='?' (Size = 256), @p6='?' (DbType = Boolean), @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTimeOffset), @p9='?' (Size = 4000), @p10='?' (Size = 256), @p11='?' (Size = 256), @p12='?' (Size = 4000), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 4000), @p16='?' (DbType = Boolean), @p17='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [AspNetUserTokens]
+OUTPUT 1
+WHERE [LoginProvider] = @p0 AND [Name] = @p1 AND [UserId] = @p2;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p3, [ConcurrencyStamp] = @p4, [Email] = @p5, [EmailConfirmed] = @p6, [LockoutEnabled] = @p7, [LockoutEnd] = @p8, [Nombre] = @p9, [NormalizedEmail] = @p10, [NormalizedUserName] = @p11, [PasswordHash] = @p12, [PhoneNumber] = @p13, [PhoneNumberConfirmed] = @p14, [SecurityStamp] = @p15, [TwoFactorEnabled] = @p16, [UserName] = @p17
+OUTPUT 1
+WHERE [Id] = @p18 AND [ConcurrencyStamp] = @p19;
+2025-02-27 15:58:42.669 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450), @__p_2='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[LoginProvider], [a].[Name], [a].[Value]
+FROM [AspNetUserTokens] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[LoginProvider] = @__p_1 AND [a].[Name] = @__p_2
+2025-02-27 15:58:42.674 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nombre], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-02-27 15:58:42.689 -05:00 [INF] Executed DbCommand (12ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450), @p2='?' (Size = 450), @p3='?' (Size = 4000), @p19='?' (Size = 450), @p4='?' (DbType = Int32), @p5='?' (Size = 4000), @p20='?' (Size = 4000), @p6='?' (Size = 256), @p7='?' (DbType = Boolean), @p8='?' (DbType = Boolean), @p9='?' (DbType = DateTimeOffset), @p10='?' (Size = 4000), @p11='?' (Size = 256), @p12='?' (Size = 256), @p13='?' (Size = 4000), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 4000), @p17='?' (DbType = Boolean), @p18='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserTokens] ([LoginProvider], [Name], [UserId], [Value])
+VALUES (@p0, @p1, @p2, @p3);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p4, [ConcurrencyStamp] = @p5, [Email] = @p6, [EmailConfirmed] = @p7, [LockoutEnabled] = @p8, [LockoutEnd] = @p9, [Nombre] = @p10, [NormalizedEmail] = @p11, [NormalizedUserName] = @p12, [PasswordHash] = @p13, [PhoneNumber] = @p14, [PhoneNumberConfirmed] = @p15, [SecurityStamp] = @p16, [TwoFactorEnabled] = @p17, [UserName] = @p18
+OUTPUT 1
+WHERE [Id] = @p19 AND [ConcurrencyStamp] = @p20;
+2025-02-27 15:58:42.693 -05:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-02-27 15:58:42.695 -05:00 [INF] Executed action hoshibunko.Controllers.AuthController.Login (hoshibunko) in 370.5616ms
+2025-02-27 15:58:42.695 -05:00 [INF] Executed endpoint 'hoshibunko.Controllers.AuthController.Login (hoshibunko)'
+2025-02-27 15:58:42.696 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7061/api/Auth/login - 200 null application/json; charset=utf-8 396.5001ms
+2025-02-27 15:58:56.812 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/api/Autor - null null
+2025-02-27 15:58:56.823 -05:00 [INF] Executing endpoint 'hoshibunko.Web.Controllers.AutorController.GetAll (hoshibunko)'
+2025-02-27 15:58:56.828 -05:00 [INF] Route matched with {action = "GetAll", controller = "Autor"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller hoshibunko.Web.Controllers.AutorController (hoshibunko).
+2025-02-27 15:58:56.835 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Nombre]
+FROM [Autores] AS [a]
+2025-02-27 15:58:56.840 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[hoshibunko.Models.Entities.Autor, hoshibunko, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-27 15:58:56.858 -05:00 [INF] Executed action hoshibunko.Web.Controllers.AutorController.GetAll (hoshibunko) in 27.5356ms
+2025-02-27 15:58:56.861 -05:00 [INF] Executed endpoint 'hoshibunko.Web.Controllers.AutorController.GetAll (hoshibunko)'
+2025-02-27 15:58:56.862 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/api/Autor - 200 null application/json; charset=utf-8 50.3777ms
+2025-02-27 18:40:52.849 -05:00 [INF] User profile is available. Using 'C:\Users\agarcia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 18:40:53.537 -05:00 [WRN] The foreign key property 'Like.LibroId1' was created in shadow state because a conflicting property with the simple name 'LibroId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-02-27 18:40:54.073 -05:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 18:40:54.199 -05:00 [INF] Executed DbCommand (111ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2025-02-27 18:40:54.461 -05:00 [INF] Executed DbCommand (34ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 18:40:54.504 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-02-27 18:40:54.529 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 18:40:54.540 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Autores] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 18:40:54.552 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Categorias] AS [c]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 18:40:54.563 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Libros] AS [l]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 18:40:54.580 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Likes] AS [l]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-02-27 18:40:54.841 -05:00 [INF] Now listening on: https://localhost:7061
+2025-02-27 18:40:54.844 -05:00 [INF] Now listening on: http://localhost:5175
+2025-02-27 18:40:54.911 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 18:40:54.919 -05:00 [INF] Hosting environment: Development
+2025-02-27 18:40:54.926 -05:00 [INF] Content root path: C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko
+2025-02-27 18:40:55.586 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/index.html - null null
+2025-02-27 18:40:55.855 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/index.html - 200 null text/html;charset=utf-8 277.8556ms
+2025-02-27 18:40:55.893 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 18:40:55.901 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/_vs/browserLink - null null
+2025-02-27 18:40:55.916 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 22.7922ms
+2025-02-27 18:40:55.980 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.0311ms
+2025-02-27 18:40:56.064 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - null null
+2025-02-27 18:40:56.090 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7061/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 26.2966ms
