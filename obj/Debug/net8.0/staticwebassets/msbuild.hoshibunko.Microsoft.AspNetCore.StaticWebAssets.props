@@ -90,6 +90,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\116cecf9-2166-4e5a-9e2b-e05a6c4e707c.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>hoshibunko</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hoshibunko</BasePath>
+      <RelativePath>images/13a3d14d-cf0c-42e3-a345-a080b95deefd.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gwh070b6sa</Fingerprint>
+      <Integrity>oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>hoshibunko</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hoshibunko</BasePath>
+      <RelativePath>images/15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8xtk4rjt5h</Fingerprint>
+      <Integrity>hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\161f6eb2-9bcb-43bd-b3ca-30a9f9b8ce19.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>hoshibunko</SourceId>
@@ -180,6 +216,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d89a14e0-a19a-4de3-bd70-a9df9d44bd80.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>hoshibunko</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hoshibunko</BasePath>
+      <RelativePath>images/e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i93666w3t7</Fingerprint>
+      <Integrity>BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>hoshibunko</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hoshibunko</BasePath>
+      <RelativePath>images/f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7yuu5tv2zj</Fingerprint>
+      <Integrity>0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f1611573-7736-49e4-91b5-90fad7fad74f.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>hoshibunko</SourceId>
@@ -197,6 +269,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f1611573-7736-49e4-91b5-90fad7fad74f.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>hoshibunko</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/hoshibunko</BasePath>
+      <RelativePath>images/f9951d83-bc65-4248-b424-52a4fb56136e.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8xtk4rjt5h</Fingerprint>
+      <Integrity>hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

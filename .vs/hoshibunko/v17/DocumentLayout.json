@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\usuario\\updateusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\usuario\\updateusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\usuario\\crearusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\usuario\\crearusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\usuario\\getusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\usuario\\getusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\libroimagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,44 +67,12 @@
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\interfaces\\ilibroimagenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:services\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\dtos\\libro\\getlibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\busquedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\busquedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF11BB09-7CC6-4C73-B85C-57476E2FA6E0}|hoshibunko.csproj|c:\\users\\agarcia\\documents\\ut\\8vo cuatrimestre\\aplicaciones web profesionales\\proyecto\\back\\hoshibunko\\services\\interfaces\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,11 +106,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\Service\\UsuarioService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswLoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:50:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:02:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "GetUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\GetUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Usuario\\GetUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\GetUsuarioDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Usuario\\GetUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:15:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\UpdateUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Usuario\\UpdateUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\UpdateUsuarioDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Usuario\\UpdateUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:20:06.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:47:55.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:01:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\Entities\\Libro.cs",
+              "RelativeToolTip": "Models\\Entities\\Libro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:37:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\CrearUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Usuario\\CrearUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Usuario\\CrearUsuarioDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Usuario\\CrearUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:55:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:50:18.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:10:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILibroService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILibroService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ILibroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:22:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LikeService.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\LikeService.cs",
               "RelativeDocumentMoniker": "Services\\Service\\LikeService.cs",
@@ -110,36 +261,12 @@
               "RelativeToolTip": "Services\\Service\\LikeService.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T04:49:32.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibroImagenController.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroImagenController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LibroImagenController.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroImagenController.cs",
-              "RelativeToolTip": "Controllers\\LibroImagenController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:43:33.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibroController.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroController.cs",
-              "RelativeToolTip": "Controllers\\LibroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:01:01.328Z",
+              "WhenOpened": "2025-03-01T04:49:32.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "LibroService.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\LibroService.cs",
               "RelativeDocumentMoniker": "Services\\Service\\LibroService.cs",
@@ -147,35 +274,12 @@
               "RelativeToolTip": "Services\\Service\\LibroService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:22:45.877Z"
+              "WhenOpened": "2025-03-01T07:22:45.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILIbroImagenService.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILIbroImagenService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ILIbroImagenService.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILIbroImagenService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ILIbroImagenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:44:06.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILibroService.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILibroService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ILibroService.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILibroService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ILibroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:22:06.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "LibroImagenService.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\LibroImagenService.cs",
               "RelativeDocumentMoniker": "Services\\Service\\LibroImagenService.cs",
@@ -187,7 +291,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "ILIbroImagenService.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILIbroImagenService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ILIbroImagenService.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILIbroImagenService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ILIbroImagenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:44:06.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibroImagenController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroImagenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroImagenController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LibroImagenController.cs",
+              "RelativeToolTip": "Controllers\\LibroImagenController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:43:33.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -199,19 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T05:50:18.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -223,55 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwB8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T22:02:10.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
-              "RelativeToolTip": "Models\\DTOs\\Auth\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T23:10:20.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\UsuarioDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\UsuarioDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T05:55:10.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\Service\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Service\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\Service\\UsuarioService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowHMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T05:50:37.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -283,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "LibroImagen.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\Entities\\LibroImagen.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\LibroImagen.cs",
@@ -295,19 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\Entities\\Libro.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Libro.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\Entities\\Libro.cs",
-              "RelativeToolTip": "Models\\Entities\\Libro.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:37:57.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "GetLibroDTO.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Models\\DTOs\\Libro\\GetLibroDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\Libro\\GetLibroDTO.cs",
@@ -319,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "BusquedaController.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\BusquedaController.cs",
               "RelativeDocumentMoniker": "Controllers\\BusquedaController.cs",
@@ -331,19 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T05:47:55.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ILikeService.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Services\\Interfaces\\ILikeService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ILikeService.cs",
@@ -355,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "LikeController.cs",
               "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\Controllers\\LikeController.cs",
               "RelativeDocumentMoniker": "Controllers\\LikeController.cs",

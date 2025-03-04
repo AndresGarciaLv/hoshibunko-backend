@@ -178,3 +178,4 @@ C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PR
 C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko\obj\Debug\net8.0\hoshibunko.pdb
 C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko\obj\Debug\net8.0\hoshibunko.genruntimeconfig.cache
 C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko\obj\Debug\net8.0\ref\hoshibunko.dll
+C:\Users\agarcia\Documents\UT\8vo Cuatrimestre\Aplicaciones Web Profesionales\PROYECTO\BACK\hoshibunko\obj\Debug\net8.0\hoshibunko.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nMDKRbRJ1CabGguPQucljK6kTBIoY90ufjxTRb6DlLM=",
+  "Hash": "ed9kxDrGxP39UU9Z35R8uBR38fPHUpk596OkYPBsa08=",
   "Source": "hoshibunko",
   "BasePath": "_content/hoshibunko",
   "Mode": "Default",
@@ -143,6 +143,48 @@
       "OriginalItemSpec": "wwwroot\\images\\116cecf9-2166-4e5a-9e2b-e05a6c4e707c.jpeg"
     },
     {
+      "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif",
+      "SourceId": "hoshibunko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\",
+      "BasePath": "_content/hoshibunko",
+      "RelativePath": "images/13a3d14d-cf0c-42e3-a345-a080b95deefd#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwh070b6sa",
+      "Integrity": "oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif"
+    },
+    {
+      "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg",
+      "SourceId": "hoshibunko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\",
+      "BasePath": "_content/hoshibunko",
+      "RelativePath": "images/15d3f1ac-2140-43e3-8e2d-6e3189b3b09a#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xtk4rjt5h",
+      "Integrity": "hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\161f6eb2-9bcb-43bd-b3ca-30a9f9b8ce19.jpg",
       "SourceId": "hoshibunko",
       "SourceType": "Discovered",
@@ -248,6 +290,48 @@
       "OriginalItemSpec": "wwwroot\\images\\d89a14e0-a19a-4de3-bd70-a9df9d44bd80.jpg"
     },
     {
+      "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg",
+      "SourceId": "hoshibunko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\",
+      "BasePath": "_content/hoshibunko",
+      "RelativePath": "images/e1052f58-2f7e-4981-a73f-9f22828f18ff#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i93666w3t7",
+      "Integrity": "BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp",
+      "SourceId": "hoshibunko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\",
+      "BasePath": "_content/hoshibunko",
+      "RelativePath": "images/f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7yuu5tv2zj",
+      "Integrity": "0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp"
+    },
+    {
       "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f1611573-7736-49e4-91b5-90fad7fad74f.jpeg",
       "SourceId": "hoshibunko",
       "SourceType": "Discovered",
@@ -267,6 +351,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\f1611573-7736-49e4-91b5-90fad7fad74f.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg",
+      "SourceId": "hoshibunko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\",
+      "BasePath": "_content/hoshibunko",
+      "RelativePath": "images/f9951d83-bc65-4248-b424-52a4fb56136e#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8xtk4rjt5h",
+      "Integrity": "hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg"
     },
     {
       "Identity": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\js\\site.js",
@@ -1981,6 +2086,170 @@
       ]
     },
     {
+      "Route": "images/13a3d14d-cf0c-42e3-a345-a080b95deefd.avif",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:52:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE="
+        }
+      ]
+    },
+    {
+      "Route": "images/13a3d14d-cf0c-42e3-a345-a080b95deefd.gwh070b6sa.avif",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\13a3d14d-cf0c-42e3-a345-a080b95deefd.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:52:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwh070b6sa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/13a3d14d-cf0c-42e3-a345-a080b95deefd.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oPHiVIxRrTt5EWV8Bipgo1iy42P+JKwheo0JJcyvWhE="
+        }
+      ]
+    },
+    {
+      "Route": "images/15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.8xtk4rjt5h.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:46:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xtk4rjt5h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\15d3f1ac-2140-43e3-8e2d-6e3189b3b09a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:46:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI="
+        }
+      ]
+    },
+    {
       "Route": "images/161f6eb2-9bcb-43bd-b3ca-30a9f9b8ce19.4ezl97ftgs.jpg",
       "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\161f6eb2-9bcb-43bd-b3ca-30a9f9b8ce19.jpg",
       "Selectors": [],
@@ -2391,6 +2660,170 @@
       ]
     },
     {
+      "Route": "images/e1052f58-2f7e-4981-a73f-9f22828f18ff.i93666w3t7.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 22:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i93666w3t7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\e1052f58-2f7e-4981-a73f-9f22828f18ff.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 22:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrRD8Yd2SF5xL1XgQ/0jIi+CQtPiXIKStvK0vhA4yiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.7yuu5tv2zj.webp",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 06:30:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7yuu5tv2zj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04="
+        }
+      ]
+    },
+    {
+      "Route": "images/f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f12cb4e5-5a88-43ad-87a0-f321dcc1cb2f.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 06:30:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0d5mgt7HNabR4PFG2hbGriJqCYi5PrNoqkgAWDNkB04="
+        }
+      ]
+    },
+    {
       "Route": "images/f1611573-7736-49e4-91b5-90fad7fad74f.fza95w4mlz.jpeg",
       "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f1611573-7736-49e4-91b5-90fad7fad74f.jpeg",
       "Selectors": [],
@@ -2469,6 +2902,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-JfuNo3UFbYTk0kAdK1TBbDvovYQ4GeSd0sKwWzQlTus="
+        }
+      ]
+    },
+    {
+      "Route": "images/f9951d83-bc65-4248-b424-52a4fb56136e.8xtk4rjt5h.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8xtk4rjt5h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f9951d83-bc65-4248-b424-52a4fb56136e.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/f9951d83-bc65-4248-b424-52a4fb56136e.jpeg",
+      "AssetFile": "C:\\Users\\agarcia\\Documents\\UT\\8vo Cuatrimestre\\Aplicaciones Web Profesionales\\PROYECTO\\BACK\\hoshibunko\\wwwroot\\images\\f9951d83-bc65-4248-b424-52a4fb56136e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:53:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hOsWQzcLRHW05ejGFtuBnCu1Mc43fOrl8mAyLDw3XfI="
         }
       ]
     },

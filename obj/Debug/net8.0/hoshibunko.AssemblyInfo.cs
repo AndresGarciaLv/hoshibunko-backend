@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hoshibunko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b0a641caf93dc98db6ced8b1497626140a395a")]
 [assembly: System.Reflection.AssemblyProductAttribute("hoshibunko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hoshibunko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -661,13 +661,8 @@
     "Parameters": [
       {
         "Name": "usuarioDto",
-        "Type": "hoshibunko.Models.DTOs.UsuarioDTO",
+        "Type": "hoshibunko.Models.DTOs.Usuario.CrearUsuarioDTO",
         "IsRequired": true
-      },
-      {
-        "Name": "password",
-        "Type": "System.String",
-        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -703,7 +698,7 @@
       },
       {
         "Name": "usuarioDto",
-        "Type": "hoshibunko.Models.DTOs.UsuarioDTO",
+        "Type": "hoshibunko.Models.DTOs.Usuario.UpdateUsuarioDTO",
         "IsRequired": true
       }
     ],

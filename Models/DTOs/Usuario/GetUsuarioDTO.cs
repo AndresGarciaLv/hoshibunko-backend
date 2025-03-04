@@ -1,12 +1,11 @@
-﻿namespace hoshibunko.Models.DTOs
+﻿namespace hoshibunko.Models.DTOs.Usuario
 {
-    public class UsuarioDTO
+    public class GetUsuarioDTO
     {
         public string Id { get; set; }
         public string Nombre { get; set; }
+        public string Username { get; set; }
         public string Email { get; set; }
-        public string AspNetUserId { get; set; }
         public List<string> Roles { get; set; }
     }
 }
-
